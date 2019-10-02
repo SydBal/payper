@@ -1,0 +1,27 @@
+{
+  "name": "payper",
+  "version": "1.0.0",
+  "description": "Javascript Based Blockchain Framework for Digital Card Games",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SydBal/payper.git"
+  },
+  "keywords": [
+    "card",
+    "game",
+    "blockchain"
+  ],
+  "author": "Dominic Balassone (SydBal)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SydBal/payper/issues"
+  },
+  "homepage": "https://github.com/SydBal/payper#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
